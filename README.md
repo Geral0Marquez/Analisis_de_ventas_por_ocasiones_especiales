@@ -46,10 +46,15 @@ Identificar qué productos son los más populares durante ocasiones específicas
 El dashboard está orientado a visualizar:
 
 -KPIs principales: Ingreso total, tiempo promedio de entrega, gasto promedio por cliente.
+
 -Rendimiento de productos: Top Products y Top 5 Products.
+
 -Tendencias temporales: Desempeño mensual de ventas.
+
 -Segmentación geográfica: Top 10 Cities.
+
 -Análisis por ocasión: Comparación de ingresos y popularidad de productos.
+
 -Análisis logístico: Relación entre cantidad de pedido y tiempo de entrega.
 
 <img width="2054" height="866" alt="image" src="https://github.com/user-attachments/assets/05bed9a5-ab3c-4ad3-a23e-bc71bab8fd24" />
